@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "servicebus-sender", "servic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "servicebus-receiver", "servicebus-receiver\servicebus-receiver.csproj", "{A2A3EF2A-A481-4C0D-9070-145D62A7CCA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "servicebus-chat-console", "servicebus-chat-console\servicebus-chat-console.csproj", "{976C8FC9-D6AD-4260-9448-C6C85A5C7AB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A2A3EF2A-A481-4C0D-9070-145D62A7CCA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2A3EF2A-A481-4C0D-9070-145D62A7CCA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2A3EF2A-A481-4C0D-9070-145D62A7CCA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{976C8FC9-D6AD-4260-9448-C6C85A5C7AB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{976C8FC9-D6AD-4260-9448-C6C85A5C7AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{976C8FC9-D6AD-4260-9448-C6C85A5C7AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{976C8FC9-D6AD-4260-9448-C6C85A5C7AB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
